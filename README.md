@@ -4,12 +4,12 @@ Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
 
 Sections
 
-Part1: Responsive Home Page Design.
+Responsive Home Page Design.
 
-Part2: Shop Page & Single Product Page.
+Shop Page & Single Product Page.
 
-Part3: About Page.
+About Page.
 
-Part4: Contact Us.
+Contact Us.
 
-Part5: Ecommerce Shopping Cart.
+Ecommerce Shopping Cart.
